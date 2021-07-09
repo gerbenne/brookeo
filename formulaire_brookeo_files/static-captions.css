@@ -1,0 +1,33 @@
+.tp-caption a {
+color:#ff7302;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
+/*
+     FILE ARCHIVED ON 03:34:54 Jun 06, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:30:52 Jul 09, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 309.93
+  exclusion.robots: 0.225
+  exclusion.robots.policy: 0.208
+  RedisCDXSource: 2.115
+  esindex: 0.017
+  LoadShardBlock: 280.926 (3)
+  PetaboxLoader3.resolve: 266.928 (4)
+  PetaboxLoader3.datanode: 47.819 (4)
+  CDXLines.iter: 22.905 (3)
+  load_resource: 56.449
+*/
