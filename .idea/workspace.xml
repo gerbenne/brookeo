@@ -2,10 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddc383a2-7b72-4920-aa62-7c0b2ae4ee3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/fontawesome-webfont-v=4.0.3.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fontawesome-webfont-v=4.0.3.woff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo.html" beforeDir="false" afterPath="$PROJECT_DIR$/partenariat_brookeo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/BROOKEO_logo-CMJN_hd-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/BROOKEO_logo-CMJN_hd-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/analytics.js(1).téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/analytics.js(1).téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/analytics.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/analytics.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/banner-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/banner-styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/cli-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/cli-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/common.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/common.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/cookielawinfo.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/cookielawinfo.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/custom-scripts.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/custom-scripts.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/custom.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/custom.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/donate.html" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/donate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/dynamic-captions.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/dynamic-captions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/flexslider.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/flexslider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/fokus.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/fokus.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/formidableforms.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/formidableforms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/frontend.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/frontend.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/gt_shortcodes_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/gt_shortcodes_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/hoverIntent.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/hoverIntent.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/iconochive.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/iconochive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery-migrate.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery-migrate.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery.backstretch.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery.backstretch.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery.clingify.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery.clingify.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery.fitvids.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery.fitvids.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery.flexslider.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery.flexslider.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery.form.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery.form.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery.gmaps.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery.gmaps.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery.isotope.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery.isotope.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery.quote.rotator.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery.quote.rotator.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery.themepunch.plugins.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery.themepunch.plugins.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery.themepunch.revolution.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery.themepunch.revolution.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/jquery.validate.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/jquery.validate.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/js" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/modernizr-2.6.2.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/modernizr-2.6.2.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/playback.bundle.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/playback.bundle.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/scripts.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/scripts.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/selectnav.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/selectnav.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/settings.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/settings.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/static-captions.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/static-captions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/stats.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/stats.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/superfish.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/superfish.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/superfish.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/superfish.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/twitterfetcher.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/twitterfetcher.min.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/util.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/util.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/wombat.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/wombat.js.téléchargement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/woocommerce.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/woocommerce.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaire_brookeo_files/wp-embed.min.js.téléchargement" beforeDir="false" afterPath="$PROJECT_DIR$/formulaire_brookeo/wp-embed.min.js.téléchargement" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625820691526</updated>
-      <workItem from="1625820692602" duration="8122000" />
+      <workItem from="1625820692602" duration="12500000" />
     </task>
     <servers />
   </component>
