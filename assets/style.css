@@ -4244,7 +4244,8 @@ a.read-more-btn-uber:hover {
   	display: block;
   	position: relative;
   	max-width: 100%;
-  	height: auto;
+  	height: 150px;
+	object-fit: contain;
 }
 
 .project-item img {
