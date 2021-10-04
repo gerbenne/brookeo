@@ -1487,7 +1487,6 @@ h6 a:hover {
 
 #footer-global[role="contentinfo"] {
 	background-color: #333;
-	border-top: 10px solid #eee;
 	padding: 30px 0 30px 0;
 	position: relative;
 	z-index: 300;
@@ -3110,6 +3109,10 @@ relevant template files.
 #homepage-news {
 	background: #fff;
 	padding: 90px 0;
+}
+
+#homepage-team {
+	background-color: #0c314d !important;
 }
 
 #homepage-team,
