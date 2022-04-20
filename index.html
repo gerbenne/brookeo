@@ -222,7 +222,9 @@ body {
 
 					<nav class="main-navigation" role="navigation">
 
-
+          <div class="icon-one">
+            <div class="hamburger hamburger-one"></div>
+          </div>
 					<ul id="sf" class="sf-menu sf-js-enabled sf-arrows">
 						<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a rel="11" href="contact">Devenir partenaire</a></li>
 						<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="https://www.procap-visio.com/">Espace Mandataire</a></li>
@@ -1216,6 +1218,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
 /* <![CDATA[ */
 var wpcf7 = {"apiSettings":{"root":"https:\/\/web.archive.org\/web\/20180824081916\/http:\/\/www.brookeo.fr\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Merci de confirmer que vous n\u2019\u00eates pas un robot."}}};
 /* ]]> */
+</script>
+<script>
+  $('.icon-one').on('click', function() {
+    $(this).toggleClass('active-one');
+    $('.sf-menu').slideToggle();
+  });
 </script>
 <script type="text/javascript" src="./assets/scripts.js.téléchargement"></script>
 <script type="text/javascript" src="./assets/js"></script>
