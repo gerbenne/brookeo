@@ -1,0 +1,52 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+// When DOM is fully loaded
+jQuery(document).ready(function ($) {
+
+	"use strict"; 
+
+	if ($('body.agency-default, body.agency-alt, body.one-page-team, body.one-page-personal').length) {
+	twitterFetcher.fetch(SiteParameters.twitterID, 'twitter-fetcher-tweet', 1, true, false); };
+
+	$('.portfolio-showcase').backstretch(SiteParameters.slideshow_image_one);
+	$('.header-image-slideshow').backstretch([
+	SiteParameters.slideshow_image_one,
+	SiteParameters.slideshow_image_two,
+	SiteParameters.slideshow_image_three,
+	SiteParameters.slideshow_image_four],
+	{duration: 2000, fade: 1000});
+
+});
+
+}
+/*
+     FILE ARCHIVED ON 03:07:52 Jun 06, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:26:59 Jul 09, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RedisCDXSource: 0.937
+  exclusion.robots: 0.23
+  CDXLines.iter: 24.678 (3)
+  esindex: 0.013
+  captures_list: 301.903
+  exclusion.robots.policy: 0.215
+  LoadShardBlock: 272.254 (3)
+  PetaboxLoader3.datanode: 281.488 (5)
+  load_resource: 186.197 (2)
+  PetaboxLoader3.resolve: 76.738 (2)
+*/
